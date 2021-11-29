@@ -1,0 +1,31 @@
+body{
+    /* display: grid;
+    align-content: center;
+    align-self: center; */
+    background-color: #884444;
+}
+
+a{
+    display: inline-flex;
+    /* align-content: center;
+    align-self: center; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    color: white;
+    font-size: 2.4vw;
+    /* margin-bottom: .2em; */
+    /* bottom: 1em; */
+    padding: 1em;
+    text-underline-offset: 4px;
+    text-decoration-color: #CC4444;
+    transition: all ease-in-out 400ms;
+}
+
+
+a:hover{
+    color: #FF8888;
+    /* font-size: 2vw; */
+    padding: 1em;
+    text-underline-offset: 4px;
+    text-decoration-color: white;
+}
